@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
