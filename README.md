@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/2348-number-of-zero-filled-subarrays) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
