@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
@@ -80,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
