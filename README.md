@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0334-increasing-triplet-subsequence) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 ## Math
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
