@@ -6,7 +6,7 @@ public:
     }
     
     int sumRange(int left, int right) {
-        int n= nums.size();
+        int n = nums.size();
         vector<int> prefix(n,0);
         prefix[0]=nums[0];
         for(int i=1;i<n;i++){
