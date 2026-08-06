@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
