@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
+| [0523-continuous-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
+| [0523-continuous-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/2348-number-of-zero-filled-subarrays) |
 ## String
 |  |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0239-sliding-window-maximum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
