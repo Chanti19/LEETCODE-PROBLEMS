@@ -13,7 +13,7 @@ public:
             int val = prefix[i]%k;
             if(val<0) val+=k;
             if(mp.find(val)!=mp.end()) count+=mp[val];
-            if(mp.find(prefix[i]%k)==mp.end()) mp[prefix[i]%k]=0;
+            if(mp.find(val)==mp.end()) mp[val]=0;
             mp[val]++;
         }
         return count;
