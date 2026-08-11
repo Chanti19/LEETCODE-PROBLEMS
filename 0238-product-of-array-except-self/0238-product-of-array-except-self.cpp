@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
+        if(n==1) return {1};
         vector<int> res(n,0);
         vector<int> prefix(n,0);
         prefix[0] = nums[0];
