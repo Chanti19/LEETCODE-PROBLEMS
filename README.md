@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
