@@ -10,7 +10,7 @@ public:
                 word.push_back(s[i++]);
             }
             reverse(word.begin(),word.end());
-            if(word.length()>0) res= res+" "+word;
+            if(word.length()>0) res+=" "+word;
         }
         return res.substr(1);
     }
