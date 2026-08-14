@@ -4,13 +4,12 @@ public:
         int slen = s.length();
         if(slen==0) return true;
         int tlen = t.length();
-        int i=0,j=0;
-        while(j<tlen){
-            if(s[i]==t[j]){
-                i++;
-                if(i==slen) return true;
+        int j=0;
+        for(int i=0;i<tlen;i++){
+            if(s[j]==t[i]){
+                j++;
+                if(j==slen) return true;
             }
-            j++;
         }
         return false;
     }
