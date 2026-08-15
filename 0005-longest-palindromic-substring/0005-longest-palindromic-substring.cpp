@@ -1,23 +1,25 @@
 class Solution {
 public:
-    bool ispalindrome(const string& s,int l,int r){
-        while(l<r){
-            if(s[l++]!=s[r--]) return false;
-        }
-        return true;
-    }
     string longestPalindrome(string s) {
-        int  n = s.length();
-        string res ="";
+        int n = s.length();
+        int start = 0, end = 0;
         for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(ispalindrome(s,i,j)){
-                    if(j-i+1>res.length()){
-                        res = s.substr(i,j-i+1);
-                    }
-                }
+            int odd = expand(s,i,i);
+            int even = expand(s,i,i+1);
+            int len = max(odd,even);
+            if(len > (end-start)){
+                start = i- (len-1)/2;
+                end = i + len/2;
             }
+        } 
+        return s.substr(start,end-start+1);
+    }
+private:
+    int expand(string s,int left,int right){
+        while(left>=0&&right<s.length()&&s[left]==s[right]){
+            left--;
+            right++;
         }
-        return res;
+        return right -left -1;
     }
 };
