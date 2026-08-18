@@ -4,19 +4,19 @@ public:
         int n = s.length();
         int count =0;
         for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(ispal(s,i,j)) count++;
-            }
+            count+=ispal(s,i,i);
+            count+=ispal(s,i,i+1);
         }
         return count;
     }
 private:
-    bool ispal(string& s,int l,int r){
-        while(l<r){
-            if(s[l]!=s[r]) return false;
-            l++;
-            r--;
+    int ispal(string& s,int l,int r){
+        int count=0;
+        while(l>=0&&r<s.length()&&s[l]==s[r]){
+            count++;
+            l--;
+            r++;
         }
-        return true;
+        return count;
     }
 };
