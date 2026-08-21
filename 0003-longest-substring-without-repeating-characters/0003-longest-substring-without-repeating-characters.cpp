@@ -6,7 +6,7 @@ public:
         unordered_map<char,int> mp;
         int l=0,r=0;
         while(r<n){
-            while(l<r&&mp.find(s[r])!=mp.end()){
+            while(mp.find(s[r])!=mp.end()){
                 mp[s[l]]--;
                 if(mp[s[l]]==0){
                     mp.erase(s[l]);
