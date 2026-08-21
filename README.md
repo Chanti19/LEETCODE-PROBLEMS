@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0680-valid-palindrome-ii) |
 ## Stack
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
