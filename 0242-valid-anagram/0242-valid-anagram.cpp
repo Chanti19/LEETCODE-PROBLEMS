@@ -12,7 +12,7 @@ public:
             if(fre[ch-'a']>0) fre[ch-'a']--;
         }
         for(int i:fre){
-            if(i>0) return false;
+            if(i!=0) return false;
         }
         return true;
     }
