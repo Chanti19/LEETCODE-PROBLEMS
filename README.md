@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Chanti19/LEETCODE-PROBLEMS/tree/master/0647-palindromic-substrings) |
