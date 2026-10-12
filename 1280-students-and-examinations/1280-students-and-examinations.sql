@@ -8,6 +8,6 @@ GROUP BY
 Students.student_id,
 student_name,
 Subjects.subject_name
-ORDER BY Students.student_id,
-student_name,
+ORDER BY Students.student_id ASC,
+student_name ASC,
 Subjects.subject_name ASC;
